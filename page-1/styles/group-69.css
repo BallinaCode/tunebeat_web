@@ -1,0 +1,51 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 32.9rem;
+}.group-69-dhk {
+  box-sizing: border-box;
+  padding: 0.9rem 11.7rem 0.9rem 1.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ef5466;
+  border-radius: 1rem;
+}
+.group-69-dhk .auto-group-5pvx-mJA {
+  margin-right: 2rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.7rem 0.453rem 0.7rem;
+  height: 3.8rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.9rem;
+  flex-shrink: 0;
+}
+.group-69-dhk .auto-group-5pvx-mJA .image-61-tdg {
+  width: 2.4rem;
+  height: 2.9468rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-69-dhk .continuar-con-apple-C8a {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

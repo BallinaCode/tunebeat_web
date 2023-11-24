@@ -1,0 +1,122 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 108rem;
+}.android-small-16-sg6 {
+  box-sizing: border-box;
+  padding: 3.6rem 5.2rem 4.4rem 4.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-154-bg-atS.png');
+  background-color: #ffffff;
+}
+.android-small-16-sg6 .auto-group-mdj8-yj8 {
+  margin: 0rem 2.4rem 0.3rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.android-small-16-sg6 .auto-group-mdj8-yj8 .group-107-iAv {
+  margin: 0rem 7.5rem 52.26rem 0rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.android-small-16-sg6 .auto-group-mdj8-yj8 .group-107-iAv .mask-group-FwY {
+  width: 3rem;
+  height: 1.44rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.android-small-16-sg6 .auto-group-mdj8-yj8 .image-154-mut {
+  margin-left: 0.5rem;
+  width: 10rem;
+  height: 10rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-154-bg.png');
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.android-small-16-sg6 .auto-group-1zhc-gX4 {
+  margin: 0rem 6.2rem 1.1rem 0rem;
+  width: 60.4rem;
+  flex-shrink: 0;
+}
+.android-small-16-sg6 .auto-group-1zhc-gX4 .link-up-spider-verse-remix-spider-man-across-the-spider-verse-cvW {
+  margin-bottom: 0.4rem;
+  max-width: 60.4rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.android-small-16-sg6 .auto-group-1zhc-gX4 .metro-boomin-hh4 {
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-16-sg6 .mask-group-dai {
+  margin: 0rem 2.4rem 0.2rem 0rem;
+  width: 2.1rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-small-16-sg6 .group-104-xcz {
+  margin: 60.6rem 2.4rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-small-16-sg6 .group-104-xcz .mask-group-Vcv {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-small-16-sg6 .group-104-xcz .auto-group-xybp-38e {
+  margin-bottom: 0.2rem;
+  width: 6.1rem;
+  height: 0.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-small-16-sg6 .mask-group-yY6 {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

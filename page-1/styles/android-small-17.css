@@ -1,0 +1,54 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 108rem;
+}.android-small-17-xEn {
+  box-sizing: border-box;
+  padding: 14.7rem 33.1rem 18.3rem 33.2rem;
+  width: 100%;
+  height: 72rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.android-small-17-xEn .group-10-gAn {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.android-small-17-xEn .group-10-gAn .tunebeat-logo-1-SQr {
+  width: 41.7rem;
+  height: 31.5341rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 174.056% 220.994%;
+  background-position: -15.4407rem -13.0666rem;
+  background-image: url('../assets/tunebeat-logo-1-YVY.png');
+}
+.android-small-17-xEn .group-10-gAn .tunebeat-Xx6 {
+  width: 27.4rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 31.5rem;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
